@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/majorazero/angularPracticeMoneyApp/issues"
   },
-  "homepage": "https://github.com/majorazero/angularPracticeMoneyApp#readme"
+  "homepage": "https://github.com/majorazero/angularPracticeMoneyApp#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
 }
