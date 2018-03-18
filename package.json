@@ -1,0 +1,19 @@
+{
+  "name": "angularpracticemoneyapp",
+  "version": "1.0.0",
+  "description": "written to practice angular",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majorazero/angularPracticeMoneyApp.git"
+  },
+  "author": "Daniel Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majorazero/angularPracticeMoneyApp/issues"
+  },
+  "homepage": "https://github.com/majorazero/angularPracticeMoneyApp#readme"
+}
